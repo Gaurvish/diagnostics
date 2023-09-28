@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-coka3&$=i(78rd+u8o^q*)z1m*y)4yf$^lbfd!$_fbwom_sc%9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
